@@ -48,4 +48,4 @@ someFunction();
 * Close this HTML element (remember HTML??): `<h2> My Books`</h2>
 * What HTML element is used to create an **ordered list** of items? <ul> </ul>
 * Write a CSS rule that will make only the word *Adams* red: text-color: red
-`<span id="first">Washington </span><span id="second">Adams </span><span id="third>Jefferson</span>"`
+`<span id="first">Washington </span><span id="second">Adams </span><span id="third>Jefferson</span>"` 
